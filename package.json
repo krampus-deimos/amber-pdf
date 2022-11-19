@@ -35,6 +35,6 @@
   },
   "devDependencies": {
     "pdf-parse": "^1.1.1",
-    "webpack-cli": "^3.3.10"
+    "webpack-cli": "^3.3.12"
   }
 }
